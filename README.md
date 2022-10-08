@@ -1,5 +1,7 @@
-# co64d4976b0087a3fa04680bc
+# A NFT WEBSITE(SNEAKERS) BUILT USING HTML AND CSS
+I have built this while learning CSS Fundamentals like specificity, multiple class selectors, and various property-value pairs using CSS rules. Please go through the below netlify link to watch the website live: https://astonishing-sherbet-708949.netlify.app/.
 
+Please feel free to create a fork and make your own modifications :)
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
